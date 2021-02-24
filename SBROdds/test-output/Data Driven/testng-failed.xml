@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven]">
+  <test thread-count="5" name="test(failed)">
+    <groups>
+      <run>
+        <include name="G1"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.acourse.testcases.runtest">
+        <methods>
+          <include name="LeagueTabsNFL"/>
+        </methods>
+      </class> <!-- com.acourse.testcases.runtest -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Data Driven] -->

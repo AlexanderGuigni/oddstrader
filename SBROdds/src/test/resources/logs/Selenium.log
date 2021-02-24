@@ -1,0 +1,6 @@
+23:37:49,273 DEBUG devpinoyLogger:105 - Config file loaded
+ 23:37:49,275 DEBUG devpinoyLogger:107 - Objects file loaded
+ 23:37:50,970 DEBUG devpinoyLogger:87 - Chrome driver set and browser lunched
+ 23:37:53,709 DEBUG devpinoyLogger:57 - Url 'https://www.oddstrader.com/nfl/?egid=31&seid=8582' loaded
+ 23:37:53,892 DEBUG devpinoyLogger:66 - Browser window maximazed
+ 
